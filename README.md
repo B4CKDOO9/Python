@@ -1,2 +1,2 @@
 # Python
- Get some help
+ Today we will be learning python!
